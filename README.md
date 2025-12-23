@@ -1,6 +1,6 @@
 # handgesture-3d-cube
 
-<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/2fcafc4a-9c46-4896-972c-8c53f5d4f702" />
+
 
 An interactive 3D cube application that responds to hand gestures captured through your webcam. Control and manipulate a rotating cube in real-time using natural hand movements.
 3D Cube Hand Gesture Control 🎮✋
